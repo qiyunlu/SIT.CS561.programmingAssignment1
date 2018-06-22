@@ -1,4 +1,4 @@
-# SIT CS561 Assignment 1
+# SIT CS561 Programming Assignment 1
 
 ### Generate 2 separate reports based on the following queries (one report for query #1 and another for query #2):
 1. For each customer, compute the maximum and minimum sales quantities along with the corresponding products, dates (i.e., products for those maximum and minimum purchases, and the dates when those maximum and minimum sales quantities were made) and the states in which the sale transactions took place. If there are >1 occurrences of the max or min, choose one – do not display all. For each customer, also compute the average sales quantity.
